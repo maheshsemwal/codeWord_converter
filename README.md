@@ -18,6 +18,7 @@ To decode a sentence that has been coded using this algorithm, the program rever
 Suppose you want to code the sentence "Hello World!". Run the program and choose option 1. Enter the sentence when prompted. The output will be:
 
 Coded Sentence: gkhelloHgkh gxrorld!Wgxr
+
 To decode the coded sentence "gkhelloHgkh gxrorld!Wgxr" back into its original form, run the program and choose option 2. Enter the coded sentence when prompted. The output will be:
 
 DeCoded Sentence: Hello World!
